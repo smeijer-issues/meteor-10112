@@ -1,5 +1,6 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
+import 'react-virtualized/styles.css';
 
 import './main.html';
 
